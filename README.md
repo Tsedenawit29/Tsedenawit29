@@ -5,8 +5,7 @@
 
 ## TECHNICAL PROFICIENCIES  
 
-<!-- First Row - 4 items -->
-<div style="display: flex; justify-content: center; gap: 7px; margin-bottom: 15px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; margin: 15px 0;">
 
 <div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 120px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.1)'">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
