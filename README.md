@@ -1,54 +1,30 @@
 # 👋 Hi, I'm Tsedenya Emkedemealem
 
-**Full-Stack Web Developer | Software Engineering Student**
+**Full-Stack Developer | Software Engineering Student @ Bahir Dar University**
 
-Passionate about creating efficient, scalable, and user-friendly web applications. Currently pursuing Software Engineering at Bahir Dar University and collaborating on innovative projects to solve real-world challenges.
+Dedicated to building robust, scalable web applications with clean architecture and exceptional user experiences. With expertise across the full development stack, I combine technical proficiency with problem-solving skills to deliver efficient solutions. Passionate about open-source collaboration and continuously expanding my knowledge in system design and database optimization.
 
 ---
 
 ## 🛠️ Tech Stack
 
-<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 15px; flex-wrap: wrap;">
+<div align="center">
 
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 120px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-<p style="margin: 8px 0 0; font-weight: 600;">React</p>
-</div>
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 120px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
-<p style="margin: 8px 0 0; font-weight: 600;">Vue.js</p>
-</div>
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 120px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
-<p style="margin: 8px 0 0; font-weight: 600;">Node.js</p>
-</div>
-
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 120px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-<p style="margin: 8px 0 0; font-weight: 600;">Python</p>
-</div>
-
-</div>
-
-<!-- Second Row - 3 items -->
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 120px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-<p style="margin: 8px 0 0; font-weight: 600;">PostgreSQL</p>
-</div>
-
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 120px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<p style="margin: 8px 0 0; font-weight: 600;">C++</p>
-</div>
-
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); width: 120px; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='0 2px 4px rgba(0,0,0,0.1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-<p style="margin: 8px 0 0; font-weight: 600;">Tailwind</p>
-</div>
+### **Languages & Tools**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 </div>
 
@@ -57,24 +33,26 @@ Passionate about creating efficient, scalable, and user-friendly web application
 ## 🌟 Featured Projects
 
 ### [UniConnect](https://github.com/yourusername/uniconnect)
-Bridging the gap between students and opportunities through a collaborative network.
+A collaborative platform connecting students with academic and professional opportunities, featuring real-time communication tools and event management.
 
 ### [Musicland](https://github.com/yourusername/musicland)
-(Add brief description)
+Interactive music streaming application with personalized recommendations and playlist management.
 
-### [Rick and Morty TV Show Website](https://github.com/yourusername/rick-morty)
-(Add brief description)
+### [Movie Explorer](https://github.com/yourusername/movie-explorer)
+TV show and film database leveraging The Movie DB API with responsive design and user ratings.
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](your-twitter-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center" style="margin-top: 20px;">
+  <a href="https://linkedin.com/in/yourprofile" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  <a href="mailto:your.email@example.com" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" />
+  </a>
+  <a href="https://github.com/yourusername" style="margin: 0 10px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+</div>
