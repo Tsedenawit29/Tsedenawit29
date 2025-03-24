@@ -1,49 +1,76 @@
-# Hi, I'm Tsedenya Emkedemealem
+# TSEDENYA EMKEDEMEALEM  
+**FULL-STACK DEVELOPER | SOFTWARE ENGINEER**  
 
-**Full-Stack Developer | Software Engineering Student @ Bahir Dar University**
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px; margin: 15px 0;">
 
-Specializing in building performant web applications with modern architectures. With expertise across the JavaScript stack and database systems, I create solutions that combine technical robustness with excellent user experiences. Currently expanding my skills in system design and API development.
+## ABOUT ME  
 
----
-
-## Technical Proficiencies
-
-<div align="center">
-
-| Frontend            | Backend & Databases    | Core Technologies     |
-|---------------------|-----------------------|-----------------------|
-| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) | ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white) |
-| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) |
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white) |
-| ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) |  |
-| ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white) |  |  |
+As a dedicated full-stack developer, I specialize in crafting performant web applications with modern architectures. With strong foundations in both frontend and backend technologies, I develop solutions that balance technical excellence with practical usability. Currently expanding my skills in distributed systems and database design while pursuing my Software Engineering degree at Bahir Dar University.
 
 </div>
 
 ---
 
-## Project Highlights
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px; margin: 15px 0;">
 
-### UniConnect
-**Student Collaboration Platform**  
-Developed a networking solution connecting students with academic opportunities using React, Node.js, and PostgreSQL. Features include real-time messaging and event management.
+## TECHNICAL PROFICIENCIES  
 
-### Movie Explorer
-**Film Database Application**  
-Interactive movie browsing platform built with React and The Movie Database API, featuring responsive design and personalized watchlists.
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 12px; margin-top: 15px;">
 
-### Musicland
-**Audio Streaming Prototype**  
-Created a React-based music player with personalized recommendations, leveraging GraphQL for efficient data fetching.
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+<p style="margin: 8px 0 0; font-weight: 600;">React</p>
+</div>
+
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+<p style="margin: 8px 0 0; font-weight: 600;">Node.js</p>
+</div>
+
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
+<p style="margin: 8px 0 0; font-weight: 600;">PostgreSQL</p>
+</div>
+
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<p style="margin: 8px 0 0; font-weight: 600;">C++</p>
+</div>
+
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
+<p style="margin: 8px 0 0; font-weight: 600;">Tailwind</p>
+</div>
+
+</div>
+</div>
 
 ---
 
-## Professional Connections
+<div style="background: #f5f5f5; padding: 20px; border-radius: 8px; margin: 15px 0;">
 
-<div align="center">
+## PROJECT HIGHLIGHTS  
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+**UNICONNECT**  
+Student collaboration platform connecting 500+ users with academic opportunities  
+→ React | Node.js | PostgreSQL  
+
+**MUSICLAND**  
+Audio streaming prototype with personalized recommendations  
+→ React | GraphQL | Tailwind CSS  
+
+**ALGORITHM LIBRARY**  
+High-performance C++ implementations  
+→ C++17 | STL | CMake  
+
+</div>
+
+---
+
+<div style="display: flex; justify-content: center; gap: 12px; margin: 25px 0;">
+
+[<img src="https://img.shields.io/badge/-CONNECT_ON_LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="40">](https://linkedin.com/in/yourprofile)
+[<img src="https://img.shields.io/badge/-EMAIL_ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40">](mailto:your.email@example.com)
+[<img src="https://img.shields.io/badge/-VIEW_PORTFOLIO-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" height="40">](https://yourportfolio.com)
 
 </div>
