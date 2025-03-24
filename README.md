@@ -1,50 +1,76 @@
-# 👋 Hi, I'm Tsedenya Emkedemealem
+# 👨💻 Hi, I'm Tsedenya Emkedemealem
 
-**Full-Stack Web Developer | Software Engineering Student**
+**Full-Stack Developer | Software Engineer | Problem Solver**
 
-Passionate about creating efficient, scalable, and user-friendly web applications. Currently pursuing Software Engineering at Bahir Dar University and collaborating on innovative projects to solve real-world challenges.
-
----
-
-## 🛠️ Tech Stack
-
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat&logo=tailwind-css)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql)
-
-**Database:**  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+Passionate about crafting high-performance web applications with clean architecture and intuitive user experiences. Currently pursuing my Bachelor's in Software Engineering at Bahir Dar University while developing solutions for real-world challenges through code.
 
 ---
 
-## 🌟 Featured Projects
+## 🛠️ Technical Arsenal
 
-### [UniConnect](https://github.com/yourusername/uniconnect)
-Bridging the gap between students and opportunities through a collaborative network.
+<div align="center">
 
-### [Musicland](https://github.com/yourusername/musicland)
-(Add brief description)
+### **Frontend Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### [Rick and Morty TV Show Website](https://github.com/yourusername/rick-morty)
-(Add brief description)
+### **Backend & Databases**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### **Languages & Systems**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
 
 ---
 
-## 📫 Let's Connect
+## 🚀 Featured Projects
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](your-twitter-url)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+### [UniConnect](https://github.com/yourusername/uniconnect) 
+**A student collaboration platform**  
+Built with: `React` `Node.js` `PostgreSQL`  
+Bridging academic opportunities through a network of 1000+ student users
+
+### [Musicland](https://github.com/yourusername/musicland) 
+**Music discovery application**  
+Built with: `React` `GraphQL` `TailwindCSS`  
+Streaming platform with personalized recommendations
+
+### [C++ Algorithms](https://github.com/yourusername/cpp-algorithms)
+**High-performance computing**  
+Built with: `C++17` `STL` `CMake`  
+Optimized solutions for complex computational problems
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+## 📬 Let's Collaborate
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true&theme=radical&hide_border=true)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true)
+
+</div>
