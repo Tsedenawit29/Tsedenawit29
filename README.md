@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Tsedenya Emkedemealem
 
-**Full-Stack Web Developer | Software Engineering Student**
+**Full-Stack Developer | Software Engineering Student @ Bahir Dar University**
 
-Passionate about creating efficient, scalable, and user-friendly web applications. Currently pursuing Software Engineering at Bahir Dar University and collaborating on innovative projects to solve real-world challenges.
+I'm a passionate developer with expertise in building modern web applications using JavaScript technologies across the full stack. My journey in software engineering combines formal education at Bahir Dar University with hands-on experience developing real-world solutions. I specialize in creating efficient, scalable applications with clean architecture and intuitive user interfaces. Beyond coding, I actively contribute to open-source projects and stay updated with emerging technologies in distributed systems and cloud computing.
 
 ---
 
@@ -11,33 +11,33 @@ Passionate about creating efficient, scalable, and user-friendly web application
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
 
 <!-- Frontend Stack -->
-<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 15px; border-radius: 10px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='none'">
+<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='none'">
 <h3>Frontend</h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
 </div>
 </div>
 
 <!-- Backend Stack -->
-<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 15px; border-radius: 10px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='none'">
+<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='none'">
 <h3>Backend</h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" title="GraphQL"/>
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="50" title="GraphQL"/>
 </div>
 </div>
 
 <!-- Database Stack -->
-<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 15px; border-radius: 10px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='none'">
+<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='none'">
 <h3>Database</h3>
-<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
+<div style="display: flex; justify-content: center; gap: 15px; margin-top: 15px; flex-wrap: wrap;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
 </div>
 </div>
 
@@ -48,13 +48,13 @@ Passionate about creating efficient, scalable, and user-friendly web application
 ## 🌟 Featured Projects
 
 ### [UniConnect](https://github.com/yourusername/uniconnect)
-Bridging the gap between students and opportunities through a collaborative network.
+A comprehensive student networking platform featuring real-time chat, event management, and academic resource sharing, built with React, Node.js, and PostgreSQL.
 
 ### [Musicland](https://github.com/yourusername/musicland)
-Interactive music streaming platform with personalized recommendations.
+Interactive music streaming service with AI-powered recommendations and personalized playlists using React and GraphQL.
 
-### [Movie Explorer](https://github.com/yourusername/movie-explorer)
-TV show database with personalized watchlists using TheMovieDB API.
+### [Algorithm Library](https://github.com/yourusername/algorithms)
+High-performance implementations of common algorithms in C++ and Python, focusing on optimization and clean code practices.
 
 ---
 
@@ -63,15 +63,15 @@ TV show database with personalized watchlists using TheMovieDB API.
 <div align="center" style="margin-top: 20px;">
 
 <a href="https://linkedin.com/in/yourprofile" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
 </a>
 
 <a href="mailto:your.email@example.com" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
 </a>
 
 <a href="https://github.com/yourusername" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
 </a>
 
 </div>
