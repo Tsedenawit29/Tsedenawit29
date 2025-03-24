@@ -1,4 +1,4 @@
-# TSEDENYA EMKEDEMEALEM  
+# 👋 Hi there! I'm Tsedenya Emkedemealem  
 **FULL-STACK DEVELOPER | SOFTWARE ENGINEER**  
 
 <div style="background: #f5f5f5; padding: 20px; border-radius: 8px; margin: 15px 0;">
@@ -15,29 +15,39 @@ As a dedicated full-stack developer, I specialize in crafting performant web app
 
 ## TECHNICAL PROFICIENCIES  
 
-<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); gap: 12px; margin-top: 15px;">
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 15px;">
 
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
 <p style="margin: 8px 0 0; font-weight: 600;">React</p>
 </div>
 
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+<p style="margin: 8px 0 0; font-weight: 600;">Vue.js</p>
+</div>
+
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
 <p style="margin: 8px 0 0; font-weight: 600;">Node.js</p>
 </div>
 
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+<p style="margin: 8px 0 0; font-weight: 600;">Python</p>
+</div>
+
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
 <p style="margin: 8px 0 0; font-weight: 600;">PostgreSQL</p>
 </div>
 
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40"/>
 <p style="margin: 8px 0 0; font-weight: 600;">C++</p>
 </div>
 
-<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="background: white; padding: 12px; border-radius: 6px; text-align: center; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
 <p style="margin: 8px 0 0; font-weight: 600;">Tailwind</p>
 </div>
@@ -57,11 +67,11 @@ Student collaboration platform connecting 500+ users with academic opportunities
 
 **MUSICLAND**  
 Audio streaming prototype with personalized recommendations  
-→ React | GraphQL | Tailwind CSS  
+→ Vue.js | GraphQL | Tailwind CSS  
 
-**ALGORITHM LIBRARY**  
-High-performance C++ implementations  
-→ C++17 | STL | CMake  
+**PYTHON AUTOMATION**  
+Script collection for workflow optimization  
+→ Python | BeautifulSoup | Pandas  
 
 </div>
 
