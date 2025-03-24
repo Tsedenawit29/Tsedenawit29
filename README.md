@@ -8,46 +8,37 @@ Passionate about creating efficient, scalable, and user-friendly web application
 
 ## 🛠️ Tech Stack
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin: 20px 0;">
+<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
 
-<!-- Row 1 -->
-<div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" title="HTML5"/>
+<!-- Frontend Stack -->
+<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 15px; border-radius: 10px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='none'">
+<h3>Frontend</h3>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/>
+</div>
 </div>
 
-<div style="
-   transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" title="CSS3"/>
+<!-- Backend Stack -->
+<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 15px; border-radius: 10px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='none'">
+<h3>Backend</h3>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" title="GraphQL"/>
+</div>
 </div>
 
-<div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" title="JavaScript"/>
+<!-- Database Stack -->
+<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 15px; border-radius: 10px; text-align: center; transition: all 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 5px 15px rgba(0,0,0,0.1)'" onmouseout="this.style.transform=''; this.style.boxShadow='none'">
+<h3>Database</h3>
+<div style="display: flex; justify-content: center; gap: 10px; margin-top: 10px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++"/>
 </div>
-
-<!-- Row 2 -->
-<div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" title="React"/>
-</div>
-
-<div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" title="Node.js"/>
-</div>
-
-<div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" title="Python"/>
-</div>
-
-<!-- Row 3 -->
-<div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" title="PostgreSQL"/>
-</div>
-
-<div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" title="MySQL"/>
-</div>
-
-<div style="text-align: center; transition: transform 0.3s ease;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" title="C++"/>
 </div>
 
 </div>
@@ -72,15 +63,15 @@ TV show database with personalized watchlists using TheMovieDB API.
 <div align="center" style="margin-top: 20px;">
 
 <a href="https://linkedin.com/in/yourprofile" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
 </a>
 
 <a href="mailto:your.email@example.com" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
 </a>
 
 <a href="https://github.com/yourusername" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
 </a>
 
 </div>
