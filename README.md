@@ -67,11 +67,11 @@ A fan-driven website for the iconic 'Rick and Morty' show. It provides detailed 
 </a>
 
 <a href="mailto:tsedenyaemkedemealem@gmail.com" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50"/>
 </a>
 
 <a href="https://github.com/Tsedenawit29" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 </a>
 
 </div>
