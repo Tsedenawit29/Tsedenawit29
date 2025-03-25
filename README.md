@@ -71,7 +71,7 @@ A fan-driven website for the iconic 'Rick and Morty' show. It provides detailed 
 </a>
 
 <a href="https://github.com/Tsedenawit29" style="margin: 0 15px;">
-<img src="https://images.app.goo.gl/vz3WR3BRDmJoV91A8" width="50" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="filter: brightness(0.8) sepia(1)  hue-rotate(190deg) saturate(5);"/>
 </a>
 
 </div>
