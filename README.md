@@ -63,15 +63,15 @@ A fan-driven website for the iconic 'Rick and Morty' show. It provides detailed 
 <div align="center" style="margin-top: 20px;">
 
 <a href="https://www.linkedin.com/in/tsedenya-emkedemealem/" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
 </a>
 
 <a href="mailto:tsedenyaemkedemealem@gmail.com" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="50" />
 </a>
 
 <a href="https://github.com/Tsedenawit29" style="margin: 0 15px;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="filter: brightness(0.8) sepia(1)  hue-rotate(190deg) saturate(5);"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
 </a>
 
 </div>
