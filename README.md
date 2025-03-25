@@ -48,13 +48,13 @@ I'm a passionate developer with expertise in building modern web applications us
 ## 🌟 Featured Projects
 
 ### [UniConnect](https://github.com/yourusername/uniconnect)
-A comprehensive student networking platform featuring real-time chat, event management, and academic resource sharing, built with React, Node.js, and PostgreSQL.
+UniConnect bridges academia and innovation, creating a hub for students, researchers, and industry professionals to collaborate, access opportunities, and transform academic ideas into impactful solutions.
 
-### [Musicland](https://github.com/yourusername/musicland)
-Interactive music streaming service with AI-powered recommendations and personalized playlists using React and GraphQL.
+### [Musicland](https://github.com/Tsedenawit29/song_land)
+Musicland is a user-friendly music platform where users can search for songs, listen to real-time music, and explore playlists. It features a robust frontend built with React and Redux for a seamless experience.
 
-### [Algorithm Library](https://github.com/yourusername/algorithms)
-High-performance implementations of common algorithms in C++ and Python, focusing on optimization and clean code practices.
+### [Rick & Morty Tv show website](https://github.com/Tsedenawit29/Rick-AND--Morty)
+A fan-driven website for the iconic 'Rick and Morty' show. It provides detailed character profiles, episodes, and dynamic visuals, powered by Vue.js and styled with Tailwind CSS.
 
 ---
 
@@ -62,15 +62,15 @@ High-performance implementations of common algorithms in C++ and Python, focusin
 
 <div align="center" style="margin-top: 20px;">
 
-<a href="https://linkedin.com/in/yourprofile" style="margin: 0 15px;">
+<a href="https://www.linkedin.com/in/tsedenya-emkedemealem/" style="margin: 0 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
 </a>
 
-<a href="mailto:your.email@example.com" style="margin: 0 15px;">
+<a href="mailto:tsedenyaemkedemealem@gmail.com" style="margin: 0 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
 </a>
 
-<a href="https://github.com/yourusername" style="margin: 0 15px;">
+<a href="https://github.com/Tsedenawit29" style="margin: 0 15px;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" style="filter: brightness(0.8) sepia(1) hue-rotate(190deg) saturate(5);"/>
 </a>
 
