@@ -11,44 +11,82 @@ I like taking software from idea to production, but where I really live is the b
 - **Software Engineer @ KAB Digital Solution** — Bahir Dar, Ethiopia
   Building custom software solutions and ERP systems for clients; built and deployed **IIMS**, a cloud-native startup incubation management platform in use by Bahir Dar Institute of Technology (BiTech).
 
+- **ERP System @ Bahir Dar Automotive Engineering** — Bahir Dar, Ethiopia
+  Designed and built an ERP system covering the full workorder lifecycle, customer management, and inventory management, with analytics dashboards and reporting for operational visibility.
+
 - **Full-Stack Developer** — IPv6 Ethiopia, SAI², ETNERD, Etwic
   Built websites and admin dashboards for four national initiatives spanning digital security, AI security, IPv6 adoption, and women's leadership in cybersecurity; built AI agent chatbots and trained YOLO image-recognition models.
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
-<div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px; margin: 20px 0;">
+<table>
+<tr>
+<td align="center" width="25%">
 
-<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px; text-align: center;">
-<h3>Backend</h3>
-<img src="https://skillicons.dev/icons?i=spring,python,nodejs,postgres" />
-<p style="margin-top: 10px; font-size: 14px;">Spring Boot • Python • Node.js • PostgreSQL • Supabase</p>
-</div>
+**Backend**
 
-<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px; text-align: center;">
-<h3>AI / ML</h3>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv" />
-<p style="margin-top: 10px; font-size: 14px;">AI Agent Chatbots • Model Training • YOLO Object Detection</p>
-</div>
+<img src="https://skillicons.dev/icons?i=spring" height="40"/> Spring Boot
+<br/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs" height="40"/> Node.js
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres" height="40"/> PostgreSQL
 
-<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px; text-align: center;">
-<h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,docker" />
-<p style="margin-top: 10px; font-size: 14px;">Git • Docker • REST API Development</p>
-</div>
+</td>
+<td align="center" width="25%">
 
-<div style="flex: 1; min-width: 200px; background: #f5f5f5; padding: 20px; border-radius: 10px; text-align: center;">
-<h3>Frontend (as needed)</h3>
-<img src="https://skillicons.dev/icons?i=react,vue,tailwind" />
-<p style="margin-top: 10px; font-size: 14px;">React • Vue.js • Tailwind CSS</p>
-</div>
+**AI / ML**
 
-</div>
+<img src="https://skillicons.dev/icons?i=python" height="40"/> Python
+<br/>
+<img src="https://img.icons8.com/color/48/000000/yolo.png" height="40"/> YOLO
+
+</td>
+<td align="center" width="25%">
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git" height="40"/> Git
+<br/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/> Docker
+
+</td>
+<td align="center" width="25%">
+
+**Frontend (as needed)**
+
+<img src="https://skillicons.dev/icons?i=react" height="40"/> React
+<br/>
+<img src="https://skillicons.dev/icons?i=vue" height="40"/> Vue.js
+<br/>
+<img src="https://skillicons.dev/icons?i=tailwind" height="40"/> Tailwind CSS
+
+</td>
+</tr>
+</table>
 
 ---
 
-##  Let's Connect
+## 🌟 Featured Projects
+
+### [IIMS – Innovation and Incubation Management System](https://github.com/Tsedenawit29)
+A cloud-native platform that digitizes the startup incubation lifecycle from onboarding through milestone tracking. Currently in use by Bahir Dar Institute of Technology (BiTech).
+
+### [UniConnect](https://github.com/yourusername/uniconnect)
+UniConnect bridges academia and innovation, creating a hub for students, researchers, and industry professionals to collaborate, access opportunities, and transform academic ideas into impactful solutions.
+
+### [Musicland](https://github.com/Tsedenawit29/song_land)
+A user-friendly music platform where users can search for songs, listen to real-time music, and explore playlists. Built with React and Redux for a seamless experience.
+
+### [Rick & Morty TV Show Website](https://github.com/Tsedenawit29/Rick-AND--Morty)
+A fan-driven website for the iconic 'Rick and Morty' show, featuring detailed character profiles, episodes, and dynamic visuals — powered by Vue.js and styled with Tailwind CSS.
+
+---
+
+## Let's Connect
 
 <div align="center" style="margin-top: 20px;">
 
@@ -62,6 +100,10 @@ I like taking software from idea to production, but where I really live is the b
 
 <a href="https://github.com/Tsedenawit29" style="margin: 0 15px;">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" width="50" alt="GitHub"/>
+</a>
+
+<a href="https://myportfolio-pi-one.vercel.app/" style="margin: 0 15px;">
+    <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="50" alt="Portfolio"/>
 </a>
 
 </div>
