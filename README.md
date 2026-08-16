@@ -56,7 +56,7 @@ I like taking software from idea to production, but where I really live is the b
 </td>
 <td align="center" width="25%">
 
-**Frontend (as needed)**
+**Frontend**
 
 <img src="https://skillicons.dev/icons?i=react" height="40"/> React
 <br/>
