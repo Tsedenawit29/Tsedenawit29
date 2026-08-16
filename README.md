@@ -75,14 +75,20 @@ I like taking software from idea to production, but where I really live is the b
 ### [IIMS – Innovation and Incubation Management System](https://github.com/Tsedenawit29)
 A cloud-native platform that digitizes the startup incubation lifecycle from onboarding through milestone tracking. Currently in use by Bahir Dar Institute of Technology (BiTech).
 
-### [UniConnect](https://github.com/yourusername/uniconnect)
-UniConnect bridges academia and innovation, creating a hub for students, researchers, and industry professionals to collaborate, access opportunities, and transform academic ideas into impactful solutions.
+### [IPv6 Ethiopia](https://myportfolio-pi-one.vercel.app/)
+A national internet infrastructure portal supporting Ethiopia's transition to advanced network standards. Live, cloud-hosted, and currently supporting national network-awareness initiatives across the country.
 
-### [Musicland](https://github.com/Tsedenawit29/song_land)
-A user-friendly music platform where users can search for songs, listen to real-time music, and explore playlists. Built with React and Redux for a seamless experience.
+### [ETNERD – Ethiopian Network of Researchers & Developers](https://myportfolio-pi-one.vercel.app/)
+The primary web platform for the national tech ecosystem, with a custom admin dashboard. Live and fully managed in the cloud, providing a reliable resource for researchers across the country.
 
-### [Rick & Morty TV Show Website](https://github.com/Tsedenawit29/Rick-AND--Morty)
-A fan-driven website for the iconic 'Rick and Morty' show, featuring detailed character profiles, episodes, and dynamic visuals — powered by Vue.js and styled with Tailwind CSS.
+### [ETWIC – Ethiopian Women in Cybersecurity](https://myportfolio-pi-one.vercel.app/)
+A digital platform with a responsive frontend and secure admin interface. Fully cloud-deployed and active, facilitating connection and professional development for members.
+
+### [Secure AI Africa (SAI²)](https://myportfolio-pi-one.vercel.app/)
+A security-by-design platform promoting ethical AI practices across the continent, with a robust management system. Currently live and cloud-deployed, serving as a continental hub for ethical AI practices.
+
+### [GreenLoop](https://myportfolio-pi-one.vercel.app/)
+A mobile app using a YOLO-trained computer vision model to classify waste into recyclable categories in real time. Personally trained the model and integrated it into a Flutter-based mobile app.
 
 ---
 
@@ -100,10 +106,6 @@ A fan-driven website for the iconic 'Rick and Morty' show, featuring detailed ch
 
 <a href="https://github.com/Tsedenawit29" style="margin: 0 15px;">
     <img src="https://img.icons8.com/fluency/48/000000/github.png" width="50" alt="GitHub"/>
-</a>
-
-<a href="https://myportfolio-pi-one.vercel.app/" style="margin: 0 15px;">
-    <img src="https://img.icons8.com/fluency/48/000000/domain.png" width="50" alt="Portfolio"/>
 </a>
 
 </div>
